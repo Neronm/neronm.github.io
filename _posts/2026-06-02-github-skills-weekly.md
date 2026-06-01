@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "GitHub 热门 Skills 周报 (2026-06-02)"
+title: "GitHub Skills (2026-06-02)"
 date: 2026-06-02 08:00:00 +0800
 categories: [skills, github, weekly]
-tags: [codex, skills, ai, github]
+tags: [codex, skills, ai]
 description: "| # | 仓库 | 描述 | ⭐ | 语言 |"
 ---
 
